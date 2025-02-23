@@ -11,7 +11,7 @@ You can **add**, **remove**, and **view** your to-do items right from the termin
 ✅ Remove completed or unwanted tasks  
 ✅ View your task list anytime  
 ✅ Clean, user-friendly interface  
-✅ (Coming Soon) Persistent storage with JSON files  
+✅ (Coming Soon) Persistent storage with CSV files  
 
 ---
 
